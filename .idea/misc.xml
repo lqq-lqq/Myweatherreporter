@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidProject/weather/app/src/main/res/drawable/textline.xml" value="0.21666666666666667" />
+        <entry key="..\:/androidProject/weather/app/src/main/res/layout/activity_main.xml" value="0.10009057971014493" />
+        <entry key="..\:/androidProject/weather/app/src/main/res/layout/add_city_layout.xml" value="0.12335359675785208" />
+        <entry key="..\:/androidProject/weather/app/src/main/res/layout/fragment_city_page.xml" value="0.1381340579710145" />
+        <entry key="..\:/androidProject/weather/app/src/main/res/layout/fragment_dashboard.xml" value="0.1381340579710145" />
+        <entry key="..\:/androidProject/weather/app/src/main/res/layout/fragment_home.xml" value="0.1381340579710145" />
+        <entry key="..\:/androidProject/weather/app/src/main/res/layout/fragment_notifications.xml" value="0.12817028985507245" />
+        <entry key="..\:/androidProject/weather/app/src/main/res/layout/one_city_name.xml" value="0.12335359675785208" />
+        <entry key="..\:/androidProject/weather/app/src/main/res/layout/one_day.xml" value="0.12335359675785208" />
+        <entry key="..\:/androidProject/weather/app/src/main/res/layout/show_weather_layout.xml" value="0.12318840579710146" />
+        <entry key="..\:/androidProject/weather/app/src/main/res/menu/add_city_menu.xml" value="0.24974358974358973" />
+        <entry key="..\:/androidProject/weather/app/src/main/res/menu/bottom_nav_menu.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
